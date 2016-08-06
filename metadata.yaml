@@ -1,0 +1,38 @@
+_repo: Kincaid-s-Battery_11719
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kimball, Alonzo
+    birthdate: 1874
+    deathdate: 1923
+    gutenberg_agent_id: '8161'
+    url: http://www.gutenberg.org/2009/agents/8161
+creator:
+  author:
+    agent_name: Cable, George Washington
+    alias: Cable, G. W. (George Washington)
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '3163'
+    url: http://www.gutenberg.org/2009/agents/3163
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
+description: Set in sultry New Orleans during the Civil War, Kincaid's Battery tells
+  the story of a Confederate army artillery unit, Hilary Kincaid's Battery or the
+  ladies' men," as they are more teasingly known. The men's various romances with
+  the women of the Big Easy, among other adventures, examine themes of hope, peace,
+  and the nature of war.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Kincaid's Battery
+url: http://www.gutenberg.org/ebooks/11719

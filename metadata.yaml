@@ -1,5 +1,5 @@
 _repo: Kincaid-s-Battery_11719
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Kimball, Alonzo
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1923
     gutenberg_agent_id: '8161'
     url: http://www.gutenberg.org/2009/agents/8161
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cable, George Washington
@@ -21,6 +24,8 @@ description: Set in sultry New Orleans during the Civil War, Kincaid's Battery t
   ladies' men," as they are more teasingly known. The men's various romances with
   the women of the Big Easy, among other adventures, examine themes of hope, peace,
   and the nature of war.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11719#Kincaid-s-Battery
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
